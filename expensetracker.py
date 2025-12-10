@@ -47,6 +47,4 @@ def main():
             print("thank u for choose this tracker")
         else:
             print("invalid please try again :")
-main()
-=======
->>>>>>> refs/remotes/origin/main
+
