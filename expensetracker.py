@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 expenses=[]
 def add_expense():
     amount=float(input("enter amount :"))
@@ -47,3 +48,5 @@ def main():
         else:
             print("invalid please try again :")
 main()
+=======
+>>>>>>> refs/remotes/origin/main
